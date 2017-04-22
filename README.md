@@ -1,4 +1,7 @@
-# test coverage for  [thunkify (v2.1.2)](https://github.com/visionmedia/node-thunkify)  [![npm package](https://img.shields.io/npm/v/npmtest-thunkify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-thunkify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-thunkify.svg)](https://travis-ci.org/npmtest/node-npmtest-thunkify)
+# npmtest-thunkify
+
+#### basic test-coverage for  [thunkify (v2.1.2)](https://github.com/visionmedia/node-thunkify)  [![npm package](https://img.shields.io/npm/v/npmtest-thunkify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-thunkify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-thunkify.svg)](https://travis-ci.org/npmtest/node-npmtest-thunkify)
+
 #### Turn callbacks, arrays, generators, generator functions, and promises into a thunk
 
 [![NPM](https://nodei.co/npm/thunkify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/thunkify)
@@ -66,7 +69,8 @@
         "type": "git",
         "url": "git://github.com/visionmedia/node-thunkify.git"
     },
-    "version": "2.1.2"
+    "version": "2.1.2",
+    "bin": {}
 }
 ```
 
